@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emmanuel Osita
 ======================================================================================================================================
 
-Data Analyst _AI/ML
+Data & Product Analyst 
 ------------
 
-Emmanuel Osita is a Result-driven Data Analyst with a strong foundation in Artifical Intelligence and Machine Learning. Proven ability to uncover actionable insights from complex datasets and leverage AI-driven solutions to solve real-world problems. Recently contributed to the development of Pedmonie, a fintech product simplifying digital payments for African businesses. Passionate about leveraging data and AI to drive businesses. growth, optimize operations, and enhance customer experiences.
+Product & Data Analyst with experience in user behavior analysis, market research, and data-driven product decision-making. Skilled in leveraging data, AI, and analytics to identify opportunities, evaluate product performance, and support the development of scalable digital solutions. Passionate about building impactful, user-centered products in fintech and emerging markets.
 
 
 ###
