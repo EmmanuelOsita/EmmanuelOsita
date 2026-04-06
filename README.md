@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data & Product Analyst 
 ------------
 
-Product & Data Analyst with experience in user behavior analysis, market research, and data-driven product decision-making. Skilled in leveraging data, AI, and analytics to identify opportunities, evaluate product performance, and support the development of scalable digital solutions. Passionate about building impactful, user-centered products in fintech and emerging markets.
+Data and Product Analyst focused on using data to solve real organizational challenges. I help businesses improve revenue, product performance, customer experience, and customer retention by analyzing customer behavior, identifying growth opportunities, and recommending insight-driven strategies. I simplify complex data into meaningful reports and practical actions that guide smarter decision-making across product and business teams. My work supports the development of customer-centered, high-demand products and helps organizations optimize performance, reduce churn, and achieve sustainable growth.
 
 
 ###
