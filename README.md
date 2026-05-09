@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data & Product Analyst 
 ------------
 
-Data and Product Analyst focused on using data to solve real organizational challenges. I help businesses improve revenue, product performance, customer experience, and customer retention by analyzing customer behavior, identifying growth opportunities, and recommending insight-driven strategies. I simplify complex data into meaningful reports and practical actions that guide smarter decision-making across product and business teams. My work supports the development of customer-centered, high-demand products and helps organizations optimize performance, reduce churn, and achieve sustainable growth.
+Research, Data and Product Analyst focused on using data to solve real organizational challenges. I support teams through research, data analysis, and evidence-based reporting, combining quantitative and qualitative approaches to generate actionable insights. I help businesses improve revenue, product performance, customer experience, and customer retention by analyzing customer behavior, identifying growth opportunities, and recommending insight-driven strategies. I also contribute to research design, survey development, data collection, and impact reporting to support better decision-making. I simplify complex data into meaningful reports and practical actions that guide smarter decision-making across product and business teams. My work supports the development of customer-centered, high-demand products and helps organizations optimize performance, reduce churn, and achieve sustainable growth.
 
 
 ###
